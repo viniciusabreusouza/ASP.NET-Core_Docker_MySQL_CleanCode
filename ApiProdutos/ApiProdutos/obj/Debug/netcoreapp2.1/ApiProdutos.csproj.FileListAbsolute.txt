@@ -1,0 +1,3 @@
+C:\ASP.NET-Core_Docker_MySQL_CleanCode\ASP.NET-Core_Docker_MySQL_CleanCode\ApiProdutos\ApiProdutos\obj\Debug\netcoreapp2.1\ApiProdutos.csproj.CoreCompileInputs.cache
+C:\ASP.NET-Core_Docker_MySQL_CleanCode\ASP.NET-Core_Docker_MySQL_CleanCode\ApiProdutos\ApiProdutos\obj\Debug\netcoreapp2.1\ApiProdutos.AssemblyInfoInputs.cache
+C:\ASP.NET-Core_Docker_MySQL_CleanCode\ASP.NET-Core_Docker_MySQL_CleanCode\ApiProdutos\ApiProdutos\obj\Debug\netcoreapp2.1\ApiProdutos.AssemblyInfo.cs
